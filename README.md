@@ -13,6 +13,4 @@ This is a simple HTML form hosted on GitHub Pages. You can view it live here:
 Click the button below to copy the webpage link:  
 
 ```html
-<button onclick="navigator.clipboard.writeText('https://ebrat222.github.io/html_form/')">
-    Copy Link
-</button>
+https://ebrat222.github.io/html_form/
